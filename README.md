@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlackTerar01
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning many things like Python, Java, networking, Data Structures and Algorithms etc.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning many things like Python, Java, Linux, Data Structures and Algorithms, Cybersecurity, Networking etc.
+- 💞️ I’m looking to collaborate on anything and everything that is good as an entry point into the field. 
 - 📫 How to reach me - Email at arshgupta03@gmail.com.
 
 <!---
